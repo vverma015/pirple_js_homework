@@ -9,3 +9,5 @@ var catagory="album"
 console.log(artist);
 console.log(genre);
 console.log(durection);
+console.log(published);
+console.log(catagory);

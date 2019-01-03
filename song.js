@@ -1,4 +1,4 @@
-//variable durection
+//variable declaration
 var artist ="vijay"
 var genre ="clasic"
 var durection="300"
